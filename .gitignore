@@ -104,6 +104,6 @@ venv.bak/
 
 
 #data folder
-data
+/data
 
 .mypy_cache/
