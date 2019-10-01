@@ -101,4 +101,9 @@ venv.bak/
 /site
 
 # mypy
+
+
+#data folder
+data
+
 .mypy_cache/
